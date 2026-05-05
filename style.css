@@ -61,7 +61,7 @@ input:focus{
     padding: 10px 20px;/* haut bas gauche droite */
     border: none ;
 }
-btn{
+.btn{
      display: flex;
     text-align: center;
     justify-content: center;
